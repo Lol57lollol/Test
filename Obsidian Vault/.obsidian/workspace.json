@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "b6b35f837c009925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
             "id": "91e0655a2b4eb044",
             "type": "leaf",
             "state": {
@@ -172,11 +186,13 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "72b5f7b8cea3e358",
   "lastOpenFiles": [
+    "Test.md",
     "create a link.md",
     "Sans titre",
     "Welcome.md"
